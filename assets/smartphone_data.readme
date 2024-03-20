@@ -1,0 +1,25 @@
+brand_name: The brand of the smartphone.
+model: The specific model name.
+price: The price of the smartphone.
+rating: The user rating of the smartphone.
+has_5g: Whether the smartphone supports 5G connectivity (TRUE/FALSE).
+has_nfc: Whether the smartphone has NFC (Near Field Communication) capability (TRUE/FALSE).
+has_ir_blaster: Whether the smartphone has an infrared (IR) blaster (TRUE/FALSE).
+processor_brand: The brand of the processor used.
+num_cores: The number of processor cores.
+processor_speed: The processor speed in GHz.
+battery_capacity: The battery capacity in mAH.
+fast_charging_available: Whether fast charging is available (TRUE/FALSE).
+fast_charging: The type of fast charging supported.
+ram_capacity: The RAM capacity in GB.
+internal_memory: The internal storage capacity in GB.
+screen_size: The size of the smartphone screen in inches.
+refresh_rate: The screen refresh rate in Hz.
+resolution: The screen resolution.
+num_rear_cameras: The number of front-facing cameras.
+num_front_cameras: The number of front-facing cameras.
+os: The operating system used (e.g., Android, iOS).
+primary_camera_rear: Details of the primary rear-facing camera.
+primary_camera_front: Details of the primary front-facing camera.
+extended_memory_available: Whether extended memory is available (TRUE/FALSE).
+extended_upto: The maximum extended memory capacity in GB.
